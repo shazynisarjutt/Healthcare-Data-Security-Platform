@@ -1,4 +1,4 @@
-# Azure Healthcare Data Platform
+# Healthcare-Data-Security-Platform
 
 A secure, enterprise-grade healthcare data management platform built on Microsoft Azure, demonstrating cloud security best practices, HIPAA compliance, and modern DevOps methodologies.
 
